@@ -1,0 +1,21 @@
+{
+  "bumpFiles": [
+    "package.json",
+    "packages/app/package.json",
+    "packages/app-electron/package.json",
+    "packages/app-ssr/package.json",
+    "packages/app-nuxt/package.json",
+    "packages/demo/package.json"
+  ],
+  "types": [
+    {"type": "feat", "section": "🚀 Features"},
+    {"type": "fix", "section": "🩹 Bug Fixes"},
+    {"type": "docs", "section": "📖 Documentation"},
+    {"type": "perf", "section": "🔥 Performance"},
+    {"type": "refactor", "section": "💅 Refactors"},
+    {"type": "chore", "hidden": true},
+    {"type": "ci", "hidden": true},
+    {"type": "style", "hidden": true},
+    {"type": "test", "hidden": true}
+  ]
+}

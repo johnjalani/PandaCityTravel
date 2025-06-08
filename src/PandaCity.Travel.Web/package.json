@@ -1,0 +1,24 @@
+{
+  "name": "vuero",
+  "version": "3.1.0",
+  "private": true,
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "packageManager": "pnpm@9.12.3",
+  "author": {
+    "name": "cssninjaStudio <hello@cssninja.io> (https://cssninja.io)"
+  },
+  "engines": {
+    "node": ">=18",
+    "npm": ">=10"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "postcss",
+        "react-dom",
+        "react"
+      ]
+    }
+  }
+}

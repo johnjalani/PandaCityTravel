@@ -1,0 +1,13 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "eslint.enable": false,
+  "[markdown]": {
+    "editor.rulers": [80]
+  },
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "vue.codeActions.enabled": false
+}
